@@ -95,8 +95,8 @@ npm --version   # >= 8.0.0
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/mars-weather-api.git
-cd mars-weather-api
+git clone https://github.com/Jaug18/JoseUhiaOceanc2025.git
+cd JoseUhiaOceanc2025
 
 # 2. Instalar dependencias
 npm install
